@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/cuthbertLab/music21/commit/fd9a14d30db266c83ed4b940b3d38775341423eb",
       "git:hexsha": "fd9a14d30db266c83ed4b940b3d38775341423eb",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/cuthbertLab/music21/commit/26a8ff6c37ddc1951e060d45fca655d6fbaf85ee",
